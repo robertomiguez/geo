@@ -9,21 +9,21 @@
     <div class="div0">0</div>
     <div class="div1">
       <img
-        src="marker-icon-grey.png"
+        src="/marker-icon-grey.png"
         width="15px"
       />
     </div>
     <div class="div2">0</div>
     <div class="div3">
       <img
-        src="marker-icon-green.png"
+        src="/marker-icon-green.png"
         width="15px"
       />
     </div>
     <div class="div4">1 - 10</div>
     <div class="div5">
       <img
-        src="marker-icon-gold.png"
+        src="/marker-icon-gold.png"
         width="15px"
       />
     </div>
