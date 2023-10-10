@@ -1,0 +1,23 @@
+[
+  {
+    "area": "London",
+    "location": "Oxford Street",
+    "latitude": 51.515419,
+    "longitude": -0.141099,
+    "count": 389
+  },
+  {
+    "area": "London",
+    "location": "Big Ben",
+    "latitude": 51.5007,
+    "longitude": 0.1246,
+    "count": 5
+  },
+  {
+    "area": "London",
+    "location": "St Stephen's Road",
+    "latitude": 51.5311928630255,
+    "longitude": -0.03175563513385106,
+    "count": 70
+  }
+]

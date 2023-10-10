@@ -1,0 +1,72 @@
+[
+  {
+    "area": "Edinburgh",
+    "location": "RBS Gogar (Dial-Up CA)",
+    "latitude": 55.9366,
+    "longitude": -3.33696,
+    "count": 10
+  },
+  {
+    "area": "Edinburgh",
+    "location": "Carrick Knowe Golf Course (Dial-Up CA)",
+    "latitude": 55.9417,
+    "longitude": -3.26381,
+    "count": 5
+  },
+  {
+    "area": "Edinburgh",
+    "location": "North Edinburgh Access Road (Dial-Up CA)",
+    "latitude": 55.9684,
+    "longitude": -3.23928,
+    "count": 7
+  },
+  {
+    "area": "Edinburgh",
+    "location": "North Meadow Walk, Main Path",
+    "latitude": 55.94154,
+    "longitude": -3.18507,
+    "count": 9
+  },
+  {
+    "area": "Edinburgh",
+    "location": "North Meadow Walk, Link",
+    "latitude": 55.94138,
+    "longitude": -3.18493,
+    "count": 30
+  },
+  {
+    "area": "Edinburgh",
+    "location": "Roseburn Park",
+    "latitude": 55.94478,
+    "longitude": -3.24277,
+    "count": 47
+  },
+  {
+    "area": "Edinburgh",
+    "location": "Stenhouse Drive",
+    "latitude": 55.93332,
+    "longitude": -3.26913,
+    "count": 683
+  },
+  {
+    "area": "Edinburgh",
+    "location": "Harrison Park",
+    "latitude": 55.93433,
+    "longitude": -3.22415,
+    "count": 74
+  },
+  {
+    "area": "Edinburgh",
+    "location": "Dundee Street",
+    "latitude": 55.94114,
+    "longitude": -3.21646,
+    "count": 0
+  },
+  {
+    "area": "Edinburgh",
+    "location": "A90 Deans Bridge",
+    "latitude": 55.95377,
+    "longitude": -3.21483,
+    "count": 0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "area": "Glasgow",
+    "location": "CP Sauchiehall Street / Elderslie Street",
+    "latitude": 55.86601,
+    "longitude": -4.276315,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "George V Bridge (Lanes 5-7)",
+    "latitude": 55.85601,
+    "longitude": -4.25975,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "Bell Street",
+    "latitude": 55.8577,
+    "longitude": -4.2433,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "Clyde Tunnel Northbound",
+    "latitude": 55.86335,
+    "longitude": -4.33235,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "Albert Bridge",
+    "latitude": 55.85215,
+    "longitude": -4.24776,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "Trongate",
+    "latitude": 55.85686,
+    "longitude": -4.24476,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "George V Bridge (Lanes 1-4)",
+    "latitude": 55.85602,
+    "longitude": -4.25973,
+    "count": 0
+  },
+  {
+    "area": "Glasgow",
+    "location": "Parnie Street",
+    "latitude": 55.85596,
+    "longitude": -4.24463,
+    "count": 0
+  }
+]

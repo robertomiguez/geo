@@ -1,0 +1,16 @@
+[
+  {
+    "area": "Dublin",
+    "location": "Herbert Street",
+    "latitude": 53.33595755316582,
+    "longitude": -6.245221356020216,
+    "count": 401
+  },
+  {
+    "area": "Dublin",
+    "location": "Lally Road",
+    "latitude": 53.34191510996595,
+    "longitude": -6.331685045807499,
+    "count": 9
+  }
+]
